@@ -9,7 +9,7 @@ A little bit utility for shape keys.
 
 ## Installation
 
-- Download https://github.com/SaitoTsutomu/ShapeKeyBit/archive/refs/heads/main.zip
+- Download https://github.com/SaitoTsutomu/ShapeKeyBit/archive/refs/heads/master.zip
 - Start Blender.
 - Edit menu -> Preferences
   - Select the "Add-ons" tab.
